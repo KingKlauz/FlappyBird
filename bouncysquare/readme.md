@@ -1,0 +1,3 @@
+# Bouncy Square game (with Javascript, Html and CSS)
+
+Here lies the completed Bouncy Square game mentioned on Medium:
