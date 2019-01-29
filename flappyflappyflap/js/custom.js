@@ -99,7 +99,7 @@ ctx.fillText(score, 450, 50);
       || birdY + birdHeight >=  cvs.height
       || birdY + birdHeight <= 0)
   {
-            location.reload();// reload the page
+            setTimeout(() => window.location.reload());// reload the page
    }
   }
   requestAnimationFrame(draw);
