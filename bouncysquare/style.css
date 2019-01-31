@@ -1,10 +1,15 @@
-#canvas {
+#canvasGame {
    
-    padding: 0;
-    margin: auto;
     display: block;
+    margin: auto;
+
    
     border: 3px solid #181818;
     background: #e3e3e3;
 
+}
+
+#gameInstructions
+{
+	text-align: center;
 }
